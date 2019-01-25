@@ -21,18 +21,3 @@ This repository contains the data of the PhD thesis "Understanding Confusion in 
 - [Nicole Novielli](http://collab.di.uniba.it/nicole) (University of Bari - Italy)
 - [Alexander Serebrenik](http://www.win.tue.nl/~aserebre) (Eindhoven University of Technology - The Netherlands)
 
-
-# Citing
-
-When you use the data, we kindly ask you to cite it as follows:
-
-> Felipe Ebert, Fernando Castor, Nicole Novielli, Alexander Serebrenik. Confusion in Code Reviews: Reasons, Impacts and Coping Strategies. The 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER'2019). Hangzhou, China. February 2019.
-
-> @inproceedings{Ebert:SANER:2019, <br />
-	author = {F. Ebert and F. Castor and N. Novielli and A. Serebrenik}, <br />
-	booktitle={The 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER'2019)}, <br />
-	title = {Confusion in Code Reviews: Reasons, Impacts and Coping Strategies}, <br />
-	year = {2019}, <br />
-	pages = {}, <br />
-	intype = {to appear in}, <br />
-	month={Febr},}
