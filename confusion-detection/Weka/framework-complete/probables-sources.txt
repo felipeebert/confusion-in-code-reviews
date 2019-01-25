@@ -1,0 +1,65 @@
+likely;Jordan;
+sometimes;Jordan;
+probably;Jordan;
+frequently;Jordan;
+could have;Jordan;
+often;Jordan;
+apparently;Varttala;Adverbs - Probability Adverbs
+arguably;Varttala;Adverbs - Probability Adverbs
+conceivably;Varttala;Adverbs - Probability Adverbs
+ostensibly;Varttala;Adverbs - Probability Adverbs
+perhaps;Varttala;Adverbs - Probability Adverbs
+possibly;Varttala;Adverbs - Probability Adverbs
+potentially;Varttala;Adverbs - Probability Adverbs
+presumably;Varttala;Adverbs - Probability Adverbs
+seemingly;Varttala;Adverbs - Probability Adverbs
+supposedly;Varttala;Adverbs - Probability Adverbs
+tentatively;Varttala;Adverbs - Probability Adverbs
+theoretically;Varttala;Adverbs - Probability Adverbs
+unlikely;Varttala;Adverbs - Probability Adverbs
+commonly;Varttala;Adverbs - Adverbs of Indefinite Frequency
+generally;Varttala;Adverbs - Adverbs of Indefinite Frequency
+normally;Varttala;Adverbs - Adverbs of Indefinite Frequency
+occasionally;Varttala;Adverbs - Adverbs of Indefinite Frequency
+oftentimes;Varttala;Adverbs - Adverbs of Indefinite Frequency
+rarely;Varttala;Adverbs - Adverbs of Indefinite Frequency
+routinely;Varttala;Adverbs - Adverbs of Indefinite Frequency
+seldom;Varttala;Adverbs - Adverbs of Indefinite Frequency
+typically;Varttala;Adverbs - Adverbs of Indefinite Frequency
+usually;Varttala;Adverbs - Adverbs of Indefinite Frequency
+apparent;Varttala;Adjectives - Probability Adjectives
+apt to;Varttala;Adjectives - Probability Adjectives
+conceivable;Varttala;Adjectives - Probability Adjectives
+doubtful;Varttala;Adjectives - Probability Adjectives
+hypothetical;Varttala;Adjectives - Probability Adjectives
+implausible;Varttala;Adjectives - Probability Adjectives
+improbable;Varttala;Adjectives - Probability Adjectives
+indicative;Varttala;Adjectives - Probability Adjectives
+plausible;Varttala;Adjectives - Probability Adjectives
+possible;Varttala;Adjectives - Probability Adjectives
+potential;Varttala;Adjectives - Probability Adjectives
+predictive;Varttala;Adjectives - Probability Adjectives
+probabilistic;Varttala;Adjectives - Probability Adjectives
+probable;Varttala;Adjectives - Probability Adjectives
+prone to;Varttala;Adjectives - Probability Adjectives
+putative;Varttala;Adjectives - Probability Adjectives
+speculative;Varttala;Adjectives - Probability Adjectives
+suggestive;Varttala;Adjectives - Probability Adjectives
+theoretical;Varttala;Adjectives - Probability Adjectives
+characteristic;Varttala;Adjectives - Adjectives of Indefinite Frequency
+common;Varttala;Adjectives - Adjectives of Indefinite Frequency
+commonplace;Varttala;Adjectives - Adjectives of Indefinite Frequency
+frequent;Varttala;Adjectives - Adjectives of Indefinite Frequency
+general;Varttala;Adjectives - Adjectives of Indefinite Frequency
+normal;Varttala;Adjectives - Adjectives of Indefinite Frequency
+occasional;Varttala;Adjectives - Adjectives of Indefinite Frequency
+pervasive;Varttala;Adjectives - Adjectives of Indefinite Frequency
+popular;Varttala;Adjectives - Adjectives of Indefinite Frequency
+prevalent;Varttala;Adjectives - Adjectives of Indefinite Frequency
+rare;Varttala;Adjectives - Adjectives of Indefinite Frequency
+regular;Varttala;Adjectives - Adjectives of Indefinite Frequency
+scarce;Varttala;Adjectives - Adjectives of Indefinite Frequency
+typical;Varttala;Adjectives - Adjectives of Indefinite Frequency
+uncommon;Varttala;Adjectives - Adjectives of Indefinite Frequency
+not uncommon;Varttala;Adjectives - Adjectives of Indefinite Frequency
+usual;Varttala;Adjectives - Adjectives of Indefinite Frequency

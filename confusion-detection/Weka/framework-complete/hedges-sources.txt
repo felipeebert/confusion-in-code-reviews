@@ -1,0 +1,580 @@
+could;Jordan;
+may;Jordan;
+maybe;Jordan;
+might;Jordan;
+might feel a bit;Jordan;
+perhaps;Jordan;
+seems;Jordan;
+seems like;Jordan;
+sort of;Jordan;
+a real;Lakoff;
+a regular;Lakoff;
+a self-styled;Lakoff;
+a true;Lakoff;
+a veritable;Lakoff;
+actually;Lakoff;
+all but a;Lakoff;
+all but technically;Lakoff;
+almost;Lakoff;
+anything but a;Lakoff;
+as it were;Lakoff;
+basically;Lakoff;
+can be tooked upon as;Lakoff;
+can be viewed as;Lakoff;
+crypto;Lakoff;
+crypto-;Lakoff;
+details aside;Lakoff;
+especially;Lakoff;
+essentially;Lakoff;
+exceptionally;Lakoff;
+for the most part;Lakoff;
+he as much as;Lakoff;
+he calls himself a;Lakoff;
+he calls himself an;Lakoff;
+in a manner of speaking;Lakoff;
+in a real sense;Lakoff;
+in a sense;Lakoff;
+in a way;Lakoff;
+in an important sense;Lakoff;
+in essence;Lakoff;
+in name only;Lakoff;
+in one sense;Lakoff;
+kind of;Lakoff;
+largely;Lakoff;
+literally;Lakoff;
+loosely speaking;Lakoff;
+more or less;Lakoff;
+mostly;Lakoff;
+mutatis mutandis;Lakoff;
+nominally;Lakoff;
+often;Lakoff;
+par excellence;Lakoff;
+particularly;Lakoff;
+practically;Lakoff;
+pretty;Lakoff;
+pretty much;Lakoff;
+principally;Lakoff;
+pseudo;Lakoff;
+pseudo-;Lakoff;
+quintessential;Lakoff;
+quintessentially;Lakoff;
+rather;Lakoff;
+really;Lakoff;
+relatively;Lakoff;
+roughly;Lakoff;
+she as much as;Lakoff;
+she calls herself a;Lakoff;
+she calls herself an;Lakoff;
+so to say;Lakoff;
+somewhat;Lakoff;
+strictly speaking;Lakoff;
+technically;Lakoff;
+they as much as;Lakoff;
+they call themselves a;Lakoff;
+they call themselves an;Lakoff;
+typical;Lakoff;
+typically;Lakoff;
+very;Lakoff;
+virtually;Lakoff;
+about;Varttala;Adverbs - Approximative Adverbs
+allegation;Varttala;Nouns - Nonfactive assertive nouns
+allegations;Varttala;Nouns - Nonfactive assertive nouns
+allege;Varttala;Full verbs - Nonfactive reporting verbs
+alleged;Varttala;Full verbs - Nonfactive reporting verbs
+alleges;Varttala;Full verbs - Nonfactive reporting verbs
+alleging;Varttala;Full verbs - Nonfactive reporting verbs
+allude;Varttala;Full verbs - Nonfactive reporting verbs
+alluded;Varttala;Full verbs - Nonfactive reporting verbs
+alludes;Varttala;Full verbs - Nonfactive reporting verbs
+alluding;Varttala;Full verbs - Nonfactive reporting verbs
+alternative;Varttala;Nouns - Nouns of tentative likelihood
+alternatives;Varttala;Nouns - Nouns of tentative likelihood
+anticipate;Varttala;Full verbs - Tentative cognition verbs
+anticipated;Varttala;Full verbs - Tentative cognition verbs
+anticipates;Varttala;Full verbs - Tentative cognition verbs
+anticipating;Varttala;Full verbs - Tentative cognition verbs
+appear;Varttala;Full verbs - Tentative linking verbs
+appearance;Varttala;Nouns - Nouns of tentative likelihood
+appearances;Varttala;Nouns - Nouns of tentative likelihood
+appeared;Varttala;Full verbs - Tentative linking verbs
+appearing;Varttala;Full verbs - Tentative linking verbs
+appears;Varttala;Full verbs - Tentative linking verbs
+appreciable;Varttala;Adjectives - Adjectives of Indefinite Degree
+approach;Varttala;Nouns - Tentative cognition nouns
+approaches;Varttala;Nouns - Tentative cognition nouns
+approximate;Varttala;Full verbs - Tentative cognition verbs
+approximated;Varttala;Full verbs - Tentative cognition verbs
+approximately;Varttala;Adverbs - Approximative Adverbs
+approximates;Varttala;Full verbs - Tentative cognition verbs
+approximating;Varttala;Full verbs - Tentative cognition verbs
+approximation;Varttala;Nouns - Tentative cognition nouns
+approximations;Varttala;Nouns - Tentative cognition nouns
+argue;Varttala;Full verbs - Nonfactive reporting verbs
+argued;Varttala;Full verbs - Nonfactive reporting verbs
+argues;Varttala;Full verbs - Nonfactive reporting verbs
+arguing;Varttala;Full verbs - Nonfactive reporting verbs
+argument;Varttala;Nouns - Nonfactive assertive nouns
+arguments;Varttala;Nouns - Nonfactive assertive nouns
+around;Varttala;Adverbs - Approximative Adverbs
+assert;Varttala;Full verbs - Nonfactive reporting verbs
+asserted;Varttala;Full verbs - Nonfactive reporting verbs
+asserting;Varttala;Full verbs - Nonfactive reporting verbs
+assertion;Varttala;Nouns - Nonfactive assertive nouns
+assertions;Varttala;Nouns - Nonfactive assertive nouns
+asserts;Varttala;Full verbs - Nonfactive reporting verbs
+assess;Varttala;Full verbs - Tentative cognition verbs
+assessed;Varttala;Full verbs - Tentative cognition verbs
+assesses;Varttala;Full verbs - Tentative cognition verbs
+assessing;Varttala;Full verbs - Tentative cognition verbs
+assessment;Varttala;Nouns - Tentative cognition nouns
+assessments;Varttala;Nouns - Tentative cognition nouns
+assume;Varttala;Full verbs - Tentative cognition verbs
+assumed;Varttala;Full verbs - Tentative cognition verbs
+assumes;Varttala;Full verbs - Tentative cognition verbs
+assuming;Varttala;Full verbs - Tentative cognition verbs
+assumption;Varttala;Nouns - Tentative cognition nouns
+assumptions;Varttala;Nouns - Tentative cognition nouns
+avenue;Varttala;Nouns - Nouns of tentative likelihood
+avenues;Varttala;Nouns - Nouns of tentative likelihood
+belief;Varttala;Nouns - Tentative cognition nouns
+beliefs;Varttala;Nouns - Tentative cognition nouns
+believe;Varttala;Full verbs - Tentative cognition verbs
+believed;Varttala;Full verbs - Tentative cognition verbs
+believes;Varttala;Full verbs - Tentative cognition verbs
+believing;Varttala;Full verbs - Tentative cognition verbs
+can;Varttala;Modal Auxiliares
+candidate;Varttala;Nouns - Nouns of tentative likelihood
+candidates;Varttala;Nouns - Nouns of tentative likelihood
+central;Varttala;Adjectives - Adjectives of Indefinite Degree
+chance;Varttala;Nouns - Nouns of tentative likelihood
+chances;Varttala;Nouns - Nouns of tentative likelihood
+charge;Varttala;Full verbs - Nonfactive reporting verbs
+charged;Varttala;Full verbs - Nonfactive reporting verbs
+charges;Varttala;Full verbs - Nonfactive reporting verbs
+charging;Varttala;Full verbs - Nonfactive reporting verbs
+claim;Varttala;Full verbs - Nonfactive reporting verbs
+claimed;Varttala;Full verbs - Nonfactive reporting verbs
+claiming;Varttala;Full verbs - Nonfactive reporting verbs
+claims;Varttala;Full verbs - Nonfactive reporting verbs
+close;Varttala;Adjectives - Approximative Adjectives
+closely;Varttala;Adverbs - Approximative Adverbs
+clue;Varttala;Nouns - Nonfactive assertive nouns
+clues;Varttala;Nouns - Nonfactive assertive nouns
+conceive;Varttala;Full verbs - Tentative cognition verbs
+conceived;Varttala;Full verbs - Tentative cognition verbs
+conceives;Varttala;Full verbs - Tentative cognition verbs
+conceiving;Varttala;Full verbs - Tentative cognition verbs
+concept;Varttala;Nouns - Tentative cognition nouns
+concepts;Varttala;Nouns - Tentative cognition nouns
+conceptualization;Varttala;Nouns - Tentative cognition nouns
+conceptualizations;Varttala;Nouns - Tentative cognition nouns
+conceptualize;Varttala;Full verbs - Tentative cognition verbs
+conceptualized;Varttala;Full verbs - Tentative cognition verbs
+conceptualizes;Varttala;Full verbs - Tentative cognition verbs
+conceptualizing;Varttala;Full verbs - Tentative cognition verbs
+conclude;Varttala;Full verbs - Tentative cognition verbs
+concluded;Varttala;Full verbs - Tentative cognition verbs
+concludes;Varttala;Full verbs - Tentative cognition verbs
+concluding;Varttala;Full verbs - Tentative cognition verbs
+conclusion;Varttala;Nouns - Tentative cognition nouns
+conclusions;Varttala;Nouns - Tentative cognition nouns
+consider;Varttala;Full verbs - Tentative cognition verbs
+considerable;Varttala;Adjectives - Adjectives of Indefinite Degree
+considerably;Varttala;Adverbs - Adverbs of Indefinite Degree
+considered;Varttala;Full verbs - Tentative cognition verbs
+considering;Varttala;Full verbs - Tentative cognition verbs
+considers;Varttala;Full verbs - Tentative cognition verbs
+construct;Varttala;Nouns - Tentative cognition nouns
+constructs;Varttala;Nouns - Tentative cognition nouns
+contend;Varttala;Full verbs - Nonfactive reporting verbs
+contended;Varttala;Full verbs - Nonfactive reporting verbs
+contending;Varttala;Full verbs - Nonfactive reporting verbs
+contends;Varttala;Full verbs - Nonfactive reporting verbs
+contention;Varttala;Nouns - Nonfactive assertive nouns
+contentions;Varttala;Nouns - Nonfactive assertive nouns
+deduction;Varttala;Nouns - Tentative cognition nouns
+deductions;Varttala;Nouns - Tentative cognition nouns
+deem;Varttala;Full verbs - Tentative cognition verbs
+deemed;Varttala;Full verbs - Tentative cognition verbs
+deeming;Varttala;Full verbs - Tentative cognition verbs
+deems;Varttala;Full verbs - Tentative cognition verbs
+devastating;Varttala;Adjectives - Adjectives of Indefinite Degree
+doubt;Varttala;Full verbs - Tentative cognition verbs
+doubted;Varttala;Full verbs - Tentative cognition verbs
+doubting;Varttala;Full verbs - Tentative cognition verbs
+doubts;Varttala;Full verbs - Tentative cognition verbs
+dramatically;Varttala;Adverbs - Adverbs of Indefinite Degree
+drastically;Varttala;Adverbs - Adverbs of Indefinite Degree
+envision;Varttala;Full verbs - Tentative cognition verbs
+envisioned;Varttala;Full verbs - Tentative cognition verbs
+envisioning;Varttala;Full verbs - Tentative cognition verbs
+envisions;Varttala;Full verbs - Tentative cognition verbs
+estimate;Varttala;Full verbs - Tentative cognition verbs
+estimated;Varttala;Full verbs - Tentative cognition verbs
+estimates;Varttala;Full verbs - Tentative cognition verbs
+estimating;Varttala;Full verbs - Tentative cognition verbs
+estimation;Varttala;Nouns - Tentative cognition nouns
+estimations;Varttala;Nouns - Tentative cognition nouns
+evaluate;Varttala;Full verbs - Tentative cognition verbs
+evaluated;Varttala;Full verbs - Tentative cognition verbs
+evaluates;Varttala;Full verbs - Tentative cognition verbs
+evaluating;Varttala;Full verbs - Tentative cognition verbs
+evaluation;Varttala;Nouns - Tentative cognition nouns
+evaluations;Varttala;Nouns - Tentative cognition nouns
+expect;Varttala;Full verbs - Tentative cognition verbs
+expectancies;Varttala;Nouns - Tentative cognition nouns
+expectancy;Varttala;Nouns - Tentative cognition nouns
+expectation;Varttala;Nouns - Tentative cognition nouns
+expectations;Varttala;Nouns - Tentative cognition nouns
+expected;Varttala;Full verbs - Tentative cognition verbs
+expecting;Varttala;Full verbs - Tentative cognition verbs
+expects;Varttala;Full verbs - Tentative cognition verbs
+extrapolate;Varttala;Full verbs - Tentative cognition verbs
+extrapolated;Varttala;Full verbs - Tentative cognition verbs
+extrapolates;Varttala;Full verbs - Tentative cognition verbs
+extrapolating;Varttala;Full verbs - Tentative cognition verbs
+fair;Varttala;Adjectives - Adjectives of Indefinite Degree
+fairly;Varttala;Adverbs - Adverbs of Indefinite Degree
+fantasies;Varttala;Nouns - Tentative cognition nouns
+fantasy;Varttala;Nouns - Tentative cognition nouns
+fear;Varttala;Full verbs - Tentative cognition verbs
+feared;Varttala;Full verbs - Tentative cognition verbs
+fearing;Varttala;Full verbs - Tentative cognition verbs
+fears;Varttala;Full verbs - Tentative cognition verbs
+feel;Varttala;Full verbs - Tentative cognition verbs
+feeling;Varttala;Full verbs - Tentative cognition verbs
+feels;Varttala;Full verbs - Tentative cognition verbs
+felt;Varttala;Full verbs - Tentative cognition verbs
+find;Varttala;Full verbs - Tentative cognition verbs
+finding;Varttala;Full verbs - Tentative cognition verbs
+finds;Varttala;Full verbs - Tentative cognition verbs
+forecast;Varttala;Full verbs - Nonfactive reporting verbs
+forecasting;Varttala;Full verbs - Nonfactive reporting verbs
+forecasts;Varttala;Full verbs - Nonfactive reporting verbs
+foresaw;Varttala;Full verbs - Tentative cognition verbs
+foresee;Varttala;Full verbs - Tentative cognition verbs
+foreseeing;Varttala;Full verbs - Tentative cognition verbs
+foreseen;Varttala;Full verbs - Tentative cognition verbs
+foresees;Varttala;Full verbs - Tentative cognition verbs
+foreshadow;Varttala;Full verbs - Nonfactive reporting verbs
+foreshadowed;Varttala;Full verbs - Nonfactive reporting verbs
+foreshadowing;Varttala;Full verbs - Nonfactive reporting verbs
+foreshadows;Varttala;Full verbs - Nonfactive reporting verbs
+found;Varttala;Full verbs - Tentative cognition verbs
+greatly;Varttala;Adverbs - Adverbs of Indefinite Degree
+gross;Varttala;Adjectives - Approximative Adjectives
+guess;Varttala;Nouns - Tentative cognition nouns
+guesses;Varttala;Nouns - Tentative cognition nouns
+held;Varttala;Full verbs - Tentative cognition verbs
+highly;Varttala;Adverbs - Adverbs of Indefinite Degree
+hint;Varttala;Full verbs - Nonfactive reporting verbs
+hinted;Varttala;Full verbs - Nonfactive reporting verbs
+hinting;Varttala;Full verbs - Nonfactive reporting verbs
+hints;Varttala;Full verbs - Nonfactive reporting verbs
+hold;Varttala;Full verbs - Tentative cognition verbs
+holding;Varttala;Full verbs - Tentative cognition verbs
+holds;Varttala;Full verbs - Tentative cognition verbs
+hope;Varttala;Full verbs - Tentative cognition verbs
+hoped;Varttala;Full verbs - Tentative cognition verbs
+hopes;Varttala;Full verbs - Tentative cognition verbs
+hoping;Varttala;Full verbs - Tentative cognition verbs
+hunch;Varttala;Nouns - Tentative cognition nouns
+hunches;Varttala;Nouns - Tentative cognition nouns
+hypotheses;Varttala;Nouns - Tentative cognition nouns
+hypothesis;Varttala;Nouns - Tentative cognition nouns
+hypothesize;Varttala;Full verbs - Tentative cognition verbs
+hypothesized;Varttala;Full verbs - Tentative cognition verbs
+hypothesizes;Varttala;Full verbs - Tentative cognition verbs
+hypothesizing;Varttala;Full verbs - Tentative cognition verbs
+idea;Varttala;Nouns - Tentative cognition nouns
+ideas;Varttala;Nouns - Tentative cognition nouns
+illusion;Varttala;Nouns - Tentative cognition nouns
+illusions;Varttala;Nouns - Tentative cognition nouns
+imagine;Varttala;Full verbs - Tentative cognition verbs
+imagined;Varttala;Full verbs - Tentative cognition verbs
+imagines;Varttala;Full verbs - Tentative cognition verbs
+imagining;Varttala;Full verbs - Tentative cognition verbs
+immense;Varttala;Adjectives - Adjectives of Indefinite Degree
+implicate;Varttala;Full verbs - Nonfactive reporting verbs
+implicated;Varttala;Full verbs - Nonfactive reporting verbs
+implicates;Varttala;Full verbs - Nonfactive reporting verbs
+implicating;Varttala;Full verbs - Nonfactive reporting verbs
+implication;Varttala;Nouns - Nonfactive assertive nouns
+implications;Varttala;Nouns - Nonfactive assertive nouns
+implied;Varttala;Full verbs - Nonfactive reporting verbs
+implies;Varttala;Full verbs - Nonfactive reporting verbs
+imply;Varttala;Full verbs - Nonfactive reporting verbs
+implying;Varttala;Full verbs - Nonfactive reporting verbs
+impression;Varttala;Nouns - Tentative cognition nouns
+impressions;Varttala;Nouns - Tentative cognition nouns
+impressive;Varttala;Adjectives - Adjectives of Indefinite Degree
+inclination;Varttala;Nouns - Nouns of tentative likelihood
+inclinations;Varttala;Nouns - Nouns of tentative likelihood
+indication;Varttala;Nouns - Nonfactive assertive nouns
+indications;Varttala;Nouns - Nonfactive assertive nouns
+infer;Varttala;Full verbs - Tentative cognition verbs
+infered;Varttala;Full verbs - Tentative cognition verbs
+inference;Varttala;Nouns - Tentative cognition nouns
+inferences;Varttala;Nouns - Tentative cognition nouns
+infering;Varttala;Full verbs - Tentative cognition verbs
+inferred;Varttala;Full verbs - Tentative cognition verbs
+inferring;Varttala;Full verbs - Tentative cognition verbs
+interpret;Varttala;Full verbs - Tentative cognition verbs
+interpretation;Varttala;Nouns - Tentative cognition nouns
+interpretations;Varttala;Nouns - Tentative cognition nouns
+interpreted;Varttala;Full verbs - Tentative cognition verbs
+interpreting;Varttala;Full verbs - Tentative cognition verbs
+interprets;Varttala;Full verbs - Tentative cognition verbs
+judge;Varttala;Full verbs - Tentative cognition verbs
+judged;Varttala;Full verbs - Tentative cognition verbs
+judges;Varttala;Full verbs - Tentative cognition verbs
+judging;Varttala;Full verbs - Tentative cognition verbs
+judgment;Varttala;Nouns - Tentative cognition nouns
+judgments;Varttala;Nouns - Tentative cognition nouns
+just;Varttala;Adverbs - Approximative Adverbs
+large;Varttala;Adjectives - Adjectives of Indefinite Degree
+likelihood;Varttala;Nouns - Nouns of tentative likelihood
+likelihoods;Varttala;Nouns - Nouns of tentative likelihood
+little;Varttala;Adjectives - Adjectives of Indefinite Degree
+look;Varttala;Full verbs - Tentative linking verbs
+looked;Varttala;Full verbs - Tentative linking verbs
+looking;Varttala;Full verbs - Tentative linking verbs
+looks;Varttala;Full verbs - Tentative linking verbs
+main;Varttala;Adjectives - Adjectives of Indefinite Degree
+mainly;Varttala;Adverbs - Adverbs of Indefinite Degree
+maintain;Varttala;Full verbs - Tentative cognition verbs
+maintained;Varttala;Full verbs - Tentative cognition verbs
+maintaining;Varttala;Full verbs - Tentative cognition verbs
+maintains;Varttala;Full verbs - Tentative cognition verbs
+major;Varttala;Adjectives - Adjectives of Indefinite Degree
+marked;Varttala;Adjectives - Adjectives of Indefinite Degree
+markedly;Varttala;Adverbs - Adverbs of Indefinite Degree
+massively;Varttala;Adverbs - Adverbs of Indefinite Degree
+moderate;Varttala;Adjectives - Adjectives of Indefinite Degree
+moderately;Varttala;Adverbs - Adverbs of Indefinite Degree
+modest;Varttala;Adjectives - Adjectives of Indefinite Degree
+modestly;Varttala;Adverbs - Adverbs of Indefinite Degree
+must;Varttala;Modal Auxiliares
+nearly;Varttala;Adverbs - Approximative Adverbs
+negligible;Varttala;Adjectives - Adjectives of Indefinite Degree
+notable;Varttala;Adjectives - Adjectives of Indefinite Degree
+noticeable;Varttala;Adjectives - Adjectives of Indefinite Degree
+notion;Varttala;Nouns - Tentative cognition nouns
+notions;Varttala;Nouns - Tentative cognition nouns
+odds;Varttala;Nouns - Nouns of tentative likelihood
+opinion;Varttala;Nouns - Tentative cognition nouns
+opinions;Varttala;Nouns - Tentative cognition nouns
+opportunities;Varttala;Nouns - Nouns of tentative likelihood
+opportunity;Varttala;Nouns - Nouns of tentative likelihood
+option;Varttala;Nouns - Nouns of tentative likelihood
+options;Varttala;Nouns - Nouns of tentative likelihood
+partially;Varttala;Adverbs - Adverbs of Indefinite Degree
+partly;Varttala;Adverbs - Adverbs of Indefinite Degree
+perceive;Varttala;Full verbs - Tentative cognition verbs
+perceived;Varttala;Full verbs - Tentative cognition verbs
+perceives;Varttala;Full verbs - Tentative cognition verbs
+perceiving;Varttala;Full verbs - Tentative cognition verbs
+perception;Varttala;Nouns - Tentative cognition nouns
+perceptions;Varttala;Nouns - Tentative cognition nouns
+perspective;Varttala;Nouns - Tentative cognition nouns
+perspectives;Varttala;Nouns - Tentative cognition nouns
+philosophies;Varttala;Nouns - Tentative cognition nouns
+philosophy;Varttala;Nouns - Tentative cognition nouns
+point of view;Varttala;Nouns - Tentative cognition nouns
+point to;Varttala;Full verbs - Nonfactive reporting verbs
+point toward;Varttala;Full verbs - Nonfactive reporting verbs
+pointed to;Varttala;Full verbs - Nonfactive reporting verbs
+pointed toward;Varttala;Full verbs - Nonfactive reporting verbs
+pointing to;Varttala;Full verbs - Nonfactive reporting verbs
+pointing toward;Varttala;Full verbs - Nonfactive reporting verbs
+points of view;Varttala;Nouns - Tentative cognition nouns
+points to;Varttala;Full verbs - Nonfactive reporting verbs
+points toward;Varttala;Full verbs - Nonfactive reporting verbs
+portend;Varttala;Full verbs - Nonfactive reporting verbs
+portended;Varttala;Full verbs - Nonfactive reporting verbs
+portending;Varttala;Full verbs - Nonfactive reporting verbs
+portends;Varttala;Full verbs - Nonfactive reporting verbs
+posit;Varttala;Full verbs - Nonfactive reporting verbs
+posited;Varttala;Full verbs - Nonfactive reporting verbs
+positing;Varttala;Full verbs - Nonfactive reporting verbs
+posits;Varttala;Full verbs - Nonfactive reporting verbs
+possibilities;Varttala;Nouns - Nouns of tentative likelihood
+possibility;Varttala;Nouns - Nouns of tentative likelihood
+postulate;Varttala;Full verbs - Nonfactive reporting verbs
+postulated;Varttala;Full verbs - Nonfactive reporting verbs
+postulates;Varttala;Full verbs - Nonfactive reporting verbs
+postulating;Varttala;Full verbs - Nonfactive reporting verbs
+potential;Varttala;Nouns - Nouns of tentative likelihood
+potentials;Varttala;Nouns - Nouns of tentative likelihood
+predict;Varttala;Full verbs - Nonfactive reporting verbs
+predicted;Varttala;Full verbs - Nonfactive reporting verbs
+predicting;Varttala;Full verbs - Nonfactive reporting verbs
+prediction;Varttala;Nouns - Nonfactive assertive nouns
+predictions;Varttala;Nouns - Nonfactive assertive nouns
+predicts;Varttala;Full verbs - Nonfactive reporting verbs
+predominantly;Varttala;Adverbs - Adverbs of Indefinite Degree
+predominately;Varttala;Adverbs - Adverbs of Indefinite Degree
+premise;Varttala;Nouns - Tentative cognition nouns
+premises;Varttala;Nouns - Tentative cognition nouns
+presume;Varttala;Full verbs - Tentative cognition verbs
+presumed;Varttala;Full verbs - Tentative cognition verbs
+presumes;Varttala;Full verbs - Tentative cognition verbs
+presuming;Varttala;Full verbs - Tentative cognition verbs
+presumption;Varttala;Nouns - Tentative cognition nouns
+presumptions;Varttala;Nouns - Tentative cognition nouns
+primarily;Varttala;Adverbs - Adverbs of Indefinite Degree
+primary;Varttala;Adjectives - Adjectives of Indefinite Degree
+principal;Varttala;Adjectives - Adjectives of Indefinite Degree
+probabilities;Varttala;Nouns - Nouns of tentative likelihood
+probability;Varttala;Nouns - Nouns of tentative likelihood
+project;Varttala;Full verbs - Tentative cognition verbs
+projected;Varttala;Full verbs - Tentative cognition verbs
+projecting;Varttala;Full verbs - Tentative cognition verbs
+projection;Varttala;Nouns - Tentative cognition nouns
+projections;Varttala;Nouns - Tentative cognition nouns
+projects;Varttala;Full verbs - Tentative cognition verbs
+promise;Varttala;Nouns - Nouns of tentative likelihood
+promises;Varttala;Nouns - Nouns of tentative likelihood
+proposal;Varttala;Nouns - Nonfactive assertive nouns
+proposals;Varttala;Nouns - Nonfactive assertive nouns
+propose;Varttala;Full verbs - Nonfactive reporting verbs
+proposed;Varttala;Full verbs - Nonfactive reporting verbs
+proposes;Varttala;Full verbs - Nonfactive reporting verbs
+proposing;Varttala;Full verbs - Nonfactive reporting verbs
+proposition;Varttala;Nouns - Nonfactive assertive nouns
+propositions;Varttala;Nouns - Nonfactive assertive nouns
+prospect;Varttala;Nouns - Nouns of tentative likelihood
+prospects;Varttala;Nouns - Nouns of tentative likelihood
+proximate;Varttala;Adjectives - Approximative Adjectives
+quite;Varttala;Adverbs - Adverbs of Indefinite Degree
+reason;Varttala;Full verbs - Tentative cognition verbs
+reasonable;Varttala;Adjectives - Adjectives of Indefinite Degree
+reasonably;Varttala;Adverbs - Adverbs of Indefinite Degree
+reasoned;Varttala;Full verbs - Tentative cognition verbs
+reasoning;Varttala;Full verbs - Tentative cognition verbs
+reasons;Varttala;Full verbs - Tentative cognition verbs
+reassess;Varttala;Full verbs - Tentative cognition verbs
+reassessed;Varttala;Full verbs - Tentative cognition verbs
+reassesses;Varttala;Full verbs - Tentative cognition verbs
+reassessing;Varttala;Full verbs - Tentative cognition verbs
+reestimate;Varttala;Full verbs - Tentative cognition verbs
+reestimated;Varttala;Full verbs - Tentative cognition verbs
+reestimates;Varttala;Full verbs - Tentative cognition verbs
+reestimating;Varttala;Full verbs - Tentative cognition verbs
+regard;Varttala;Full verbs - Tentative cognition verbs
+regarded;Varttala;Full verbs - Tentative cognition verbs
+regarding;Varttala;Full verbs - Tentative cognition verbs
+regards;Varttala;Full verbs - Tentative cognition verbs
+relative;Varttala;Adjectives - Adjectives of Indefinite Degree
+remarkable;Varttala;Adjectives - Adjectives of Indefinite Degree
+rough;Varttala;Adjectives - Approximative Adjectives
+saw;Varttala;Full verbs - Tentative cognition verbs
+scenario;Varttala;Nouns - Tentative cognition nouns
+scenarios;Varttala;Nouns - Tentative cognition nouns
+scheme;Varttala;Nouns - Tentative cognition nouns
+schemes;Varttala;Nouns - Tentative cognition nouns
+see;Varttala;Full verbs - Tentative cognition verbs
+seeing;Varttala;Full verbs - Tentative cognition verbs
+seem;Varttala;Full verbs - Tentative linking verbs
+seemed;Varttala;Full verbs - Tentative linking verbs
+seeming;Varttala;Full verbs - Tentative linking verbs
+seen;Varttala;Full verbs - Tentative cognition verbs
+sees;Varttala;Full verbs - Tentative cognition verbs
+shortly;Varttala;Adverbs - Adverbs of Indefinite Degree
+should;Varttala;Modal Auxiliares
+sign;Varttala;Nouns - Nouns of tentative likelihood
+significant;Varttala;Adjectives - Adjectives of Indefinite Degree
+significantly;Varttala;Adverbs - Adverbs of Indefinite Degree
+signs;Varttala;Nouns - Nouns of tentative likelihood
+slight;Varttala;Adjectives - Adjectives of Indefinite Degree
+slightly;Varttala;Adverbs - Adverbs of Indefinite Degree
+small;Varttala;Adjectives - Adjectives of Indefinite Degree
+some;Varttala;Adverbs - Approximative Adverbs
+sound;Varttala;Full verbs - Tentative linking verbs
+sounded;Varttala;Full verbs - Tentative linking verbs
+sounding;Varttala;Full verbs - Tentative linking verbs
+sounds;Varttala;Full verbs - Tentative linking verbs
+speculate;Varttala;Full verbs - Tentative cognition verbs
+speculated;Varttala;Full verbs - Tentative cognition verbs
+speculates;Varttala;Full verbs - Tentative cognition verbs
+speculating;Varttala;Full verbs - Tentative cognition verbs
+speculation;Varttala;Nouns - Tentative cognition nouns
+speculations;Varttala;Nouns - Tentative cognition nouns
+strongly;Varttala;Adverbs - Adverbs of Indefinite Degree
+substantial;Varttala;Adjectives - Adjectives of Indefinite Degree
+substantially;Varttala;Adverbs - Adverbs of Indefinite Degree
+suggest;Varttala;Full verbs - Nonfactive reporting verbs
+suggested;Varttala;Full verbs - Nonfactive reporting verbs
+suggesting;Varttala;Full verbs - Nonfactive reporting verbs
+suggestion;Varttala;Nouns - Nonfactive assertive nouns
+suggestions;Varttala;Nouns - Nonfactive assertive nouns
+suggests;Varttala;Full verbs - Nonfactive reporting verbs
+suppose;Varttala;Full verbs - Tentative cognition verbs
+supposed;Varttala;Full verbs - Tentative cognition verbs
+supposes;Varttala;Full verbs - Tentative cognition verbs
+supposing;Varttala;Full verbs - Tentative cognition verbs
+supposition;Varttala;Nouns - Tentative cognition nouns
+suppositions;Varttala;Nouns - Tentative cognition nouns
+surmise;Varttala;Full verbs - Tentative cognition verbs
+surmised;Varttala;Full verbs - Tentative cognition verbs
+surmises;Varttala;Full verbs - Tentative cognition verbs
+surmising;Varttala;Full verbs - Tentative cognition verbs
+suspect;Varttala;Full verbs - Tentative cognition verbs
+suspected;Varttala;Full verbs - Tentative cognition verbs
+suspecting;Varttala;Full verbs - Tentative cognition verbs
+suspects;Varttala;Full verbs - Tentative cognition verbs
+suspicion;Varttala;Nouns - Tentative cognition nouns
+suspicions;Varttala;Nouns - Tentative cognition nouns
+tend;Varttala;Full verbs - Tentative linking verbs
+tended;Varttala;Full verbs - Tentative linking verbs
+tendencies;Varttala;Nouns - Nouns of tentative likelihood
+tendency;Varttala;Nouns - Nouns of tentative likelihood
+tending;Varttala;Full verbs - Tentative linking verbs
+tends;Varttala;Full verbs - Tentative linking verbs
+tenet;Varttala;Nouns - Tentative cognition nouns
+tenets;Varttala;Nouns - Tentative cognition nouns
+theories;Varttala;Nouns - Tentative cognition nouns
+theorize;Varttala;Full verbs - Tentative cognition verbs
+theorized;Varttala;Full verbs - Tentative cognition verbs
+theorizes;Varttala;Full verbs - Tentative cognition verbs
+theorizing;Varttala;Full verbs - Tentative cognition verbs
+theory;Varttala;Nouns - Tentative cognition nouns
+theses;Varttala;Nouns - Tentative cognition nouns
+thesis;Varttala;Nouns - Tentative cognition nouns
+think;Varttala;Full verbs - Tentative cognition verbs
+thinking;Varttala;Full verbs - Tentative cognition verbs
+thinkings;Varttala;Nouns - Tentative cognition nouns
+thinks;Varttala;Full verbs - Tentative cognition verbs
+thought;Varttala;Full verbs - Tentative cognition verbs
+thoughts;Varttala;Nouns - Tentative cognition nouns
+threat;Varttala;Nouns - Nouns of tentative likelihood
+threats;Varttala;Nouns - Nouns of tentative likelihood
+tiny;Varttala;Adjectives - Adjectives of Indefinite Degree
+tremendous;Varttala;Adjectives - Adjectives of Indefinite Degree
+trend;Varttala;Nouns - Nouns of tentative likelihood
+trends;Varttala;Nouns - Nouns of tentative likelihood
+vastly;Varttala;Adverbs - Adverbs of Indefinite Degree
+view;Varttala;Full verbs - Tentative cognition verbs
+viewed;Varttala;Full verbs - Tentative cognition verbs
+viewing;Varttala;Full verbs - Tentative cognition verbs
+viewpoint;Varttala;Nouns - Tentative cognition nouns
+viewpoints;Varttala;Nouns - Tentative cognition nouns
+views;Varttala;Full verbs - Tentative cognition verbs
+virtual;Varttala;Adjectives - Approximative Adjectives
+vision;Varttala;Nouns - Tentative cognition nouns
+visions;Varttala;Nouns - Tentative cognition nouns
+widely;Varttala;Adverbs - Adverbs of Indefinite Degree
+will;Varttala;Modal Auxiliares
+wish;Varttala;Full verbs - Tentative cognition verbs
+wished;Varttala;Full verbs - Tentative cognition verbs
+wishes;Varttala;Full verbs - Tentative cognition verbs
+wishing;Varttala;Full verbs - Tentative cognition verbs
+wonder;Varttala;Full verbs - Tentative cognition verbs
+wondered;Varttala;Full verbs - Tentative cognition verbs
+wondering;Varttala;Full verbs - Tentative cognition verbs
+wonders;Varttala;Full verbs - Tentative cognition verbs
+worried;Varttala;Full verbs - Tentative cognition verbs
+worries;Varttala;Full verbs - Tentative cognition verbs
+worry;Varttala;Full verbs - Tentative cognition verbs
+worrying;Varttala;Full verbs - Tentative cognition verbs
+would;Varttala;Modal Auxiliares

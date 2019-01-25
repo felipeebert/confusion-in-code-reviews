@@ -1,0 +1,20 @@
+language: java
+
+addons:
+    apt:
+        packages:
+        - texlive-xetex
+        - texlive-latex-recommended
+        - texlive-latex-extra
+        - texlive-fonts-extra
+        - texlive-formats-extra
+        - texlive-extra-utils
+        - texlive-generic-extra
+
+script: >
+    ant test &&
+    ant weka-package &&
+    java -cp lib/weka.jar weka.core.WekaPackageManager -install-package autoweka.zip &&
+    export TMPF=`mktemp` &&
+    java -cp autoweka.jar weka.classifiers.meta.AutoWEKAClassifier -t test/iris.arff -no-cv -timeLimit 15 2>&1 | tee $TMPF &&
+    grep "classifier: weka.classifiers." $TMPF

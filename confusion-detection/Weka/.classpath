@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="../libs/autoweka-master/autoweka.jar"/>
+	<classpathentry kind="lib" path="../libs/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="../libs/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="../libs/javax.json.jar"/>
+	<classpathentry kind="lib" path="../libs/javax.json-api-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="../libs/joda-time.jar"/>
+	<classpathentry kind="lib" path="../libs/joda-time-2.9-sources.jar"/>
+	<classpathentry kind="lib" path="../libs/jollyday.jar"/>
+	<classpathentry kind="lib" path="../libs/jollyday-0.4.9-sources.jar"/>
+	<classpathentry kind="lib" path="../libs/jxl.jar"/>
+	<classpathentry kind="lib" path="../libs/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="../libs/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="../libs/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="../libs/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="../libs/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="../libs/protobuf.jar"/>
+	<classpathentry kind="lib" path="../libs/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="../libs/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="../libs/smote-1.0.3.jar"/>
+	<classpathentry kind="lib" path="../libs/stanford-corenlp-3.7.0.jar"/>
+	<classpathentry kind="lib" path="../libs/weka.jar"/>
+	<classpathentry kind="lib" path="../libs/xom.jar"/>
+	<classpathentry kind="lib" path="../libs/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="../libs/snowball-stemmers-1.0.1.jar"/>
+	<classpathentry kind="lib" path="../libs/stanford-corenlp-3.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="../libs/stanford-corenlp-3.7.0-models.jar"/>
+	<classpathentry kind="lib" path="../libs/stanford-corenlp-3.7.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="../libs/poi-examples-3.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
