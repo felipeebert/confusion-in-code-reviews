@@ -1,6 +1,6 @@
 # Understanding Confusion in Code Reviews
 
-This repository contains the data of the PhD thesis "Understanding Confusion in Code Reviews" of Felipe Ebert, and all papers related to it. It provides three gold standard datasets with Android code review information, one replication package for confusion identification with the classification models.
+This repository contains the data of the PhD thesis "Understanding Confusion in Code Reviews" of Felipe Ebert, and all papers related to it. It provides three gold standard datasets with Android code review information, and one replication package for confusion identification with the classification models.
 
 
 # Content
